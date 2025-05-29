@@ -121,3 +121,125 @@
 [29May2025 00:09:30.959] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [29May2025 00:09:30.960] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/aslgff/servidor_minecraft/bclib-sync (allowDelete=true)
 [29May2025 00:09:31.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13703ms or 274 ticks behind
+[29May2025 00:16:57.372] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Darrouy is 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[29May2025 00:17:01.138] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/end_lotus_vertical_slab removed now.
+[29May2025 00:17:01.138] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/morado_vertical_slab removed now.
+[29May2025 00:17:01.139] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/redwood_vertical_slab removed now.
+[29May2025 00:17:01.139] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/ebony_vertical_slab removed now.
+[29May2025 00:17:01.140] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/umbrella_tree_vertical_slab removed now.
+[29May2025 00:17:01.140] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/laurel_vertical_slab removed now.
+[29May2025 00:17:01.141] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/white_mangrove_vertical_slab removed now.
+[29May2025 00:17:01.141] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/witch_hazel_vertical_slab removed now.
+[29May2025 00:17:01.141] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/florus_vertical_slab removed now.
+[29May2025 00:17:01.141] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/grimwood_vertical_slab removed now.
+[29May2025 00:17:01.142] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/lacugrove_vertical_slab removed now.
+[29May2025 00:17:01.142] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/environmental/plum_vertical_slab removed now.
+[29May2025 00:17:01.142] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/cataclysm/chorus_vertical_slab removed now.
+[29May2025 00:17:01.143] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/holly_vertical_slab removed now.
+[29May2025 00:17:01.144] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/kousa_vertical_slab removed now.
+[29May2025 00:17:01.144] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/green_enchanted_vertical_slab removed now.
+[29May2025 00:17:01.144] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/rainbow_eucalyptus_vertical_slab removed now.
+[29May2025 00:17:01.144] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/helix_tree_vertical_slab removed now.
+[29May2025 00:17:01.145] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/dragon_tree_vertical_slab removed now.
+[29May2025 00:17:01.145] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/environmental/willow_vertical_slab removed now.
+[29May2025 00:17:01.145] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/caverns_and_chasms/azalea_vertical_slab removed now.
+[29May2025 00:17:01.145] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/createdieselgenerators/chip_wood_vertical_slab removed now.
+[29May2025 00:17:01.146] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/pythadendron_vertical_slab removed now.
+[29May2025 00:17:01.146] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/environmental/pine_vertical_slab removed now.
+[29May2025 00:17:01.147] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/pine_vertical_slab removed now.
+[29May2025 00:17:01.147] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/garnished/nut_vertical_slab removed now.
+[29May2025 00:17:01.148] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/baobab_vertical_slab removed now.
+[29May2025 00:17:01.148] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/mahogany_vertical_slab removed now.
+[29May2025 00:17:01.148] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/environmental/wisteria_vertical_slab removed now.
+[29May2025 00:17:01.149] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/jellyshroom_vertical_slab removed now.
+[29May2025 00:17:01.149] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/lucernia_vertical_slab removed now.
+[29May2025 00:17:01.149] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/palm_vertical_slab removed now.
+[29May2025 00:17:01.150] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/upgrade_aquatic/driftwood_vertical_slab removed now.
+[29May2025 00:17:01.150] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/cypress_vertical_slab removed now.
+[29May2025 00:17:01.150] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/sakura_vertical_slab removed now.
+[29May2025 00:17:01.151] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/rosewood_vertical_slab removed now.
+[29May2025 00:17:01.152] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/maple_vertical_slab removed now.
+[29May2025 00:17:01.152] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/zelkova_vertical_slab removed now.
+[29May2025 00:17:01.152] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/skyris_vertical_slab removed now.
+[29May2025 00:17:01.153] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/tenanea_vertical_slab removed now.
+[29May2025 00:17:01.154] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/garnished/sepia_vertical_slab removed now.
+[29May2025 00:17:01.154] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/yucca_vertical_slab removed now.
+[29May2025 00:17:01.154] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/fir_vertical_slab removed now.
+[29May2025 00:17:01.155] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/ironwood_vertical_slab removed now.
+[29May2025 00:17:01.155] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/blue_enchanted_vertical_slab removed now.
+[29May2025 00:17:01.155] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/upgrade_aquatic/river_vertical_slab removed now.
+[29May2025 00:17:01.155] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/cika_vertical_slab removed now.
+[29May2025 00:17:01.155] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/mossy_glowshroom_vertical_slab removed now.
+[29May2025 00:17:01.156] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/autumnity/maple_vertical_slab removed now.
+[29May2025 00:17:01.156] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/jacaranda_vertical_slab removed now.
+[29May2025 00:17:01.156] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/aspen_vertical_slab removed now.
+[29May2025 00:17:01.156] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/willow_vertical_slab removed now.
+[29May2025 00:17:01.157] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/aspen_vertical_slab removed now.
+[29May2025 00:17:01.157] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/end_lotus_vertical_slab removed now.
+[29May2025 00:17:01.158] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/morado_vertical_slab removed now.
+[29May2025 00:17:01.158] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/redwood_vertical_slab removed now.
+[29May2025 00:17:01.158] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/ebony_vertical_slab removed now.
+[29May2025 00:17:01.159] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/umbrella_tree_vertical_slab removed now.
+[29May2025 00:17:01.159] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/laurel_vertical_slab removed now.
+[29May2025 00:17:01.160] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/white_mangrove_vertical_slab removed now.
+[29May2025 00:17:01.160] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/witch_hazel_vertical_slab removed now.
+[29May2025 00:17:01.160] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/florus_vertical_slab removed now.
+[29May2025 00:17:01.160] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/grimwood_vertical_slab removed now.
+[29May2025 00:17:01.161] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/lacugrove_vertical_slab removed now.
+[29May2025 00:17:01.161] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/environmental/plum_vertical_slab removed now.
+[29May2025 00:17:01.161] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/cataclysm/chorus_vertical_slab removed now.
+[29May2025 00:17:01.162] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/holly_vertical_slab removed now.
+[29May2025 00:17:01.163] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/kousa_vertical_slab removed now.
+[29May2025 00:17:01.164] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/green_enchanted_vertical_slab removed now.
+[29May2025 00:17:01.164] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/rainbow_eucalyptus_vertical_slab removed now.
+[29May2025 00:17:01.164] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/helix_tree_vertical_slab removed now.
+[29May2025 00:17:01.164] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/dragon_tree_vertical_slab removed now.
+[29May2025 00:17:01.164] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/environmental/willow_vertical_slab removed now.
+[29May2025 00:17:01.165] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/caverns_and_chasms/azalea_vertical_slab removed now.
+[29May2025 00:17:01.165] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/createdieselgenerators/chip_wood_vertical_slab removed now.
+[29May2025 00:17:01.166] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/pythadendron_vertical_slab removed now.
+[29May2025 00:17:01.166] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/environmental/pine_vertical_slab removed now.
+[29May2025 00:17:01.167] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/pine_vertical_slab removed now.
+[29May2025 00:17:01.167] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/garnished/nut_vertical_slab removed now.
+[29May2025 00:17:01.167] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/baobab_vertical_slab removed now.
+[29May2025 00:17:01.168] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/mahogany_vertical_slab removed now.
+[29May2025 00:17:01.168] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/environmental/wisteria_vertical_slab removed now.
+[29May2025 00:17:01.169] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/jellyshroom_vertical_slab removed now.
+[29May2025 00:17:01.169] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/lucernia_vertical_slab removed now.
+[29May2025 00:17:01.169] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/palm_vertical_slab removed now.
+[29May2025 00:17:01.170] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/upgrade_aquatic/driftwood_vertical_slab removed now.
+[29May2025 00:17:01.170] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/cypress_vertical_slab removed now.
+[29May2025 00:17:01.170] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/sakura_vertical_slab removed now.
+[29May2025 00:17:01.171] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/rosewood_vertical_slab removed now.
+[29May2025 00:17:01.172] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/maple_vertical_slab removed now.
+[29May2025 00:17:01.172] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/zelkova_vertical_slab removed now.
+[29May2025 00:17:01.172] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/skyris_vertical_slab removed now.
+[29May2025 00:17:01.173] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/tenanea_vertical_slab removed now.
+[29May2025 00:17:01.173] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/garnished/sepia_vertical_slab removed now.
+[29May2025 00:17:01.174] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/yucca_vertical_slab removed now.
+[29May2025 00:17:01.174] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/fir_vertical_slab removed now.
+[29May2025 00:17:01.174] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/ironwood_vertical_slab removed now.
+[29May2025 00:17:01.174] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/blue_enchanted_vertical_slab removed now.
+[29May2025 00:17:01.174] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/upgrade_aquatic/river_vertical_slab removed now.
+[29May2025 00:17:01.174] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/cika_vertical_slab removed now.
+[29May2025 00:17:01.175] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/betterend/mossy_glowshroom_vertical_slab removed now.
+[29May2025 00:17:01.175] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/autumnity/maple_vertical_slab removed now.
+[29May2025 00:17:01.175] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/jacaranda_vertical_slab removed now.
+[29May2025 00:17:01.175] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/aspen_vertical_slab removed now.
+[29May2025 00:17:01.175] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/biomeswevegone/willow_vertical_slab removed now.
+[29May2025 00:17:01.175] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/atmospheric/aspen_vertical_slab removed now.
+[29May2025 00:17:01.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darrouy[/127.172.246.236:42933] logged in with entity id 2139 at (481.1776169739281, 71.49520087700593, 454.7248175139202)
+[29May2025 00:17:01.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy joined the game
+[29May2025 00:17:01.267] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[29May2025 00:17:01.280] [Server thread/INFO] [Jade/]: Syncing config to Darrouy (416b83ff-3bc2-46cc-9923-6a0cf3635516)
+[29May2025 00:17:01.680] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[29May2025 00:17:01.680] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[29May2025 00:17:01.681] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[29May2025 00:17:01.681] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[29May2025 00:17:01.681] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[29May2025 00:17:01.681] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[29May2025 00:17:01.681] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[29May2025 00:17:01.681] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[29May2025 00:17:01.682] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[29May2025 00:17:01.682] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[29May2025 00:17:01.682] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/aslgff/servidor_minecraft/bclib-sync (allowDelete=true)
