@@ -430,3 +430,13 @@
 [29May2025 00:36:50.116] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [29May2025 00:36:50.117] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/aslgff/servidor_minecraft/bclib-sync (allowDelete=true)
 [29May2025 00:36:52.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Darrouy> bot
+[29May2025 00:36:54.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Darrouy> bot
+[29May2025 00:36:57.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mabilone> bot
+[29May2025 00:37:03.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Darrouy> bot
+[29May2025 00:37:09.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> boyt
+[29May2025 00:37:11.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> bot
+[29May2025 00:40:55.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone has made the advancement [A Pair of Giants]
+[29May2025 00:42:32.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone has reached the goal [Crushing It]
+[29May2025 00:44:19.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9484, l='ServerLevel[world]', x=489.97, y=74.00, z=570.59] died, message: 'Unemployed was slain by Zombie'
+[29May2025 00:46:42.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9960, l='ServerLevel[world]', x=476.60, y=75.50, z=513.96] died, message: 'Unemployed was slain by Zombie'
+[29May2025 00:47:11.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9693, l='ServerLevel[world]', x=481.87, y=74.00, z=524.33] died, message: 'Unemployed was slain by Zombie Villager'
