@@ -955,6 +955,12 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-05-29 01:10:02 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-05-29 01:02:05 +0000"

@@ -954,5 +954,23 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-29 01:12:29 +0000"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-05-29 01:14:20 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/enchanting_guide": {
+    "criteria": {
+      "has_item": "2025-05-29 01:14:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
