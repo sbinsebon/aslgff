@@ -960,6 +960,12 @@
     },
     "done": true
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-05-29 01:41:20 +0000"
+    },
+    "done": true
+  },
   "create:sturdy_sheet": {
     "criteria": {
       "0": "2025-05-29 01:14:20 +0000"
