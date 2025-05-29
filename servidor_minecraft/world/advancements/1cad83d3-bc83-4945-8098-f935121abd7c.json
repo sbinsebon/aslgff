@@ -451,6 +451,7 @@
       "golden_apple": "2025-05-21 20:56:53 +0000",
       "rotten_flesh": "2025-05-21 22:36:41 +0000",
       "abnormals_delight:fried_rice": "2025-05-24 19:02:58 +0000",
+      "cooked_salmon": "2025-05-29 01:49:28 +0000",
       "cooked_porkchop": "2025-05-25 04:00:57 +0000",
       "cooked_beef": "2025-05-21 01:33:47 +0000",
       "mutton": "2025-05-21 22:36:27 +0000",
@@ -988,6 +989,12 @@
   "create_enchantment_industry:recipes/enchanting_guide": {
     "criteria": {
       "has_item": "2025-05-29 01:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-29 02:14:38 +0000"
     },
     "done": true
   },

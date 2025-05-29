@@ -539,3 +539,14 @@
 [29May2025 01:48:09.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Mabilone) moved too quickly! -3.2211210950219993,-0.004410451868338328,-9.637599182314489
 [29May2025 01:48:09.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Mabilone) moved too quickly! -3.466230489404893,-0.0045095018092666805,-10.396079786967277
 [29May2025 01:48:30.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 01:52:27.524] [Server thread/WARN] [Supplementaries/]: Player Mabilone just tried to change non-editable speaker block
+[29May2025 01:59:14.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[29May2025 02:01:58.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[29May2025 02:03:48.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[29May2025 02:04:03.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 02:06:37.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 02:08:06.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> zzzzzzzzzzzzzzz
+[29May2025 02:09:53.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[29May2025 02:14:38.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone has made the advancement [Sneak 100]
+[29May2025 02:17:32.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[29May2025 02:19:00.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
