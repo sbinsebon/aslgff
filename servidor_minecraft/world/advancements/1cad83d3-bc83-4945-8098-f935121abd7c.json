@@ -955,5 +955,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-05-29 01:02:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

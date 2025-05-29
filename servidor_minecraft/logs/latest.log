@@ -485,3 +485,16 @@
 [29May2025 00:55:29.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
 [29May2025 00:56:28.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
 [29May2025 00:56:55.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[29May2025 00:57:30.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 00:58:58.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 01:00:01.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[29May2025 01:00:10.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 01:01:54.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Darrouy> no se
+[29May2025 01:01:57.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Darrouy> si
+[29May2025 01:02:05.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone has completed the challenge [Free Willy]
+[29May2025 01:02:38.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile tried to swim in lava
+[29May2025 01:03:24.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=383, y=54, z=421} BlockPos{x=383, y=53, z=420}
+[29May2025 01:03:24.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=383, y=54, z=421} BlockPos{x=383, y=53, z=420}
+[29May2025 01:04:47.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 01:05:11.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 01:06:19.539] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
