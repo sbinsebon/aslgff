@@ -505,3 +505,8 @@
 [29May2025 01:15:10.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
 [29May2025 01:15:51.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
 [29May2025 01:16:52.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 01:18:25.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 01:27:11.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Darrouy> hace rato habia un cabron
+[29May2025 01:27:31.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy lost connection: Disconnected
+[29May2025 01:27:31.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy left the game
+[29May2025 01:27:31.581] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 416b83ff-3bc2-46cc-9923-6a0cf3635516
