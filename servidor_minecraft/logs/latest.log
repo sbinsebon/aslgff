@@ -510,3 +510,10 @@
 [29May2025 01:27:31.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy lost connection: Disconnected
 [29May2025 01:27:31.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy left the game
 [29May2025 01:27:31.581] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[29May2025 01:29:44.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile was shot by Piglin
+[29May2025 01:30:01.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 01:30:04.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 01:30:38.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 01:33:06.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone lost connection: Disconnected
+[29May2025 01:33:06.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone left the game
+[29May2025 01:33:06.620] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 1cad83d3-bc83-4945-8098-f935121abd7c

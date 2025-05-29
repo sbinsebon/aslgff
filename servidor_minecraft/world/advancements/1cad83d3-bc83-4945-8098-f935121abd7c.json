@@ -967,6 +967,12 @@
     },
     "done": true
   },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-05-29 01:28:46 +0000"
+    },
+    "done": true
+  },
   "create:spout": {
     "criteria": {
       "0": "2025-05-29 01:25:09 +0000"
@@ -976,6 +982,12 @@
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-05-29 01:02:05 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/enchanting_guide": {
+    "criteria": {
+      "has_item": "2025-05-29 01:28:46 +0000"
     },
     "done": true
   },
