@@ -550,3 +550,7 @@
 [29May2025 02:14:38.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone has made the advancement [Sneak 100]
 [29May2025 02:17:32.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
 [29May2025 02:19:00.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[29May2025 02:20:32.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[29May2025 02:20:51.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sebita_chile) moved wrongly! 0.2774537330712974
+[29May2025 02:20:51.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sebita_chile) moved wrongly! 0.2778763885474973
+[29May2025 02:28:00.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile has made the advancement [Sneak 100]
