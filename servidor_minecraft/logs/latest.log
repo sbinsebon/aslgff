@@ -4720,3 +4720,8 @@ ModdedBiomeSource (502b1c72)
 [31May2025 01:32:59.473] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [31May2025 01:32:59.476] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/aslgff/servidor_minecraft/bclib-sync (allowDelete=true)
 [31May2025 01:32:59.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13727ms or 274 ticks behind
+[31May2025 01:41:01.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[31May2025 01:42:13.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[31May2025 01:44:17.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2665ms or 53 ticks behind
+[31May2025 01:46:36.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[31May2025 01:48:05.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was burnt to a crisp whilst fighting Blaze
