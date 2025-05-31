@@ -4725,3 +4725,8 @@ ModdedBiomeSource (502b1c72)
 [31May2025 01:44:17.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2665ms or 53 ticks behind
 [31May2025 01:46:36.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
 [31May2025 01:48:05.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was burnt to a crisp whilst fighting Blaze
+[31May2025 01:51:49.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone burned to death
+[31May2025 01:55:37.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was shot by Skeleton
+[31May2025 01:55:51.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone lost connection: Disconnected
+[31May2025 01:55:51.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone left the game
+[31May2025 01:55:51.965] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 1cad83d3-bc83-4945-8098-f935121abd7c
